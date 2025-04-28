@@ -1,7 +1,10 @@
 # CoreTech_AnalysisofRoadAccident
 To overcome the limitations of unstructured raw accident data, which currently prevents stakeholders at CoreTech from gaining actionable insights, in my role as a Data Scientist, I performed statistical analysis and created an informative dashboard that improves data comprehension, emphasizing the critical need for data-driven road safety measures.
+
 Problem Statement:
+
 Road accidents are a major public safety concern affected by multiple variables. The current unstructured format of accident data limits our ability to derive actionable insights. Consequently, stakeholders lack the clear visualizations and analysis needed for informed decisions, emphasizing the critical need for data-driven road safety measures.
+
 
 Project Objectives: This project aims to:
 
