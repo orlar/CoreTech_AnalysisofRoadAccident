@@ -1,5 +1,5 @@
 # CoreTech_AnalysisofRoadAccident
-To overcome the limitations of unstructured raw accident data, which currently prevents stakeholders at CoreTech from gaining actionable insights, in my role as a Data Scientist, I performed statistical analysis and created an informative dashboard that improves data comprehension, emphasizing the critical need for data-driven road safety measures.
+To overcome the limitations of unstructured raw accident data, which currently prevents stakeholders at CoreTech from gaining actionable insights, in my role as a Data Scientist, I performed statistical analysis and created an informative dashboard that improves data comprehension, prepared a comprehensive powerpoint presentation emphasizing on the critical need for data-driven road safety measures.
 
 Problem Statement:
 
